@@ -4,6 +4,6 @@ from django.shortcuts import render, render_to_response
 # Create your views here.
 def main(request):
     request.encoding = 'utf8'
-    return render(request, 'index.html')
+    return render(request, 'index.html'.encode('utf-8')  )
 
 
