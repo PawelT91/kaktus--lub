@@ -3,9 +3,6 @@
   <component name="ChangeListManager">
     <list default="true" id="532091f9-8ecc-4be4-83c9-d6798618cd53" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cactus_site/main/templates/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/cactus_site/main/templates/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cactus_site/static/css/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/cactus_site/static/css/style.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cactus_site/templates/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/cactus_site/templates/index.html" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -135,46 +132,7 @@
             </path>
             <path>
               <item name="catus-klub" type="b2602c69:ProjectViewProjectNode" />
-              <item name="catus-klub" type="462c0819:PsiDirectoryNode" />
-              <item name="cactus_site" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="catus-klub" type="b2602c69:ProjectViewProjectNode" />
-              <item name="catus-klub" type="462c0819:PsiDirectoryNode" />
-              <item name="cactus_site" type="462c0819:PsiDirectoryNode" />
-              <item name="cactus_site" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="catus-klub" type="b2602c69:ProjectViewProjectNode" />
-              <item name="catus-klub" type="462c0819:PsiDirectoryNode" />
-              <item name="cactus_site" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="catus-klub" type="b2602c69:ProjectViewProjectNode" />
-              <item name="catus-klub" type="462c0819:PsiDirectoryNode" />
-              <item name="cactus_site" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="templates" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="catus-klub" type="b2602c69:ProjectViewProjectNode" />
-              <item name="catus-klub" type="462c0819:PsiDirectoryNode" />
-              <item name="cactus_site" type="462c0819:PsiDirectoryNode" />
-              <item name="static" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="catus-klub" type="b2602c69:ProjectViewProjectNode" />
-              <item name="catus-klub" type="462c0819:PsiDirectoryNode" />
-              <item name="cactus_site" type="462c0819:PsiDirectoryNode" />
-              <item name="static" type="462c0819:PsiDirectoryNode" />
-              <item name="css" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="catus-klub" type="b2602c69:ProjectViewProjectNode" />
-              <item name="catus-klub" type="462c0819:PsiDirectoryNode" />
-              <item name="cactus_site" type="462c0819:PsiDirectoryNode" />
-              <item name="templates" type="462c0819:PsiDirectoryNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
             </path>
           </expand>
           <select />
@@ -238,16 +196,15 @@
       <updated>1546600242551</updated>
       <workItem from="1546600244157" duration="1785000" />
       <workItem from="1546610558773" duration="758000" />
-      <workItem from="1547295530103" duration="18322000" />
+      <workItem from="1547295530103" duration="19376000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="20865000" />
+    <option name="totallyTimeSpent" value="21919000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="0" />
-    <editor active="true" />
     <layout>
       <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.25266525" />
       <window_info id="Structure" order="1" weight="0.25" />
