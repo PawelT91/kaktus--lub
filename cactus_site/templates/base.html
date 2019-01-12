@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+{% load staticfiles %}
+<html>
+<head>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8"/>
+    <title>МКЛК</title>
+    <link rel="stylesheet" type="text/css" href={% static "css/style.css" %} media="screen" />
+</head>
+<body>
+<div id="main_container">
+
+    <div id="header">
+        <div id="logo"><a href="../main/templates/index.html"><img src={% static "img/main_cactus_logo.png" %} alt=""
+            title="" border="0"
+            /></a></div>
+        <div class="on_air"><img src={% static "img/logo_g.png" %} alt="" title="" border="0" /></div>
+    </div>
+    <div id="menu">
+        <ul>
+            <li><a href="#" title="">Главное</a></li>
+            <li><a href="#" title="">Новости</a></li>
+            <li><a href="#" title="">Архив электронных выпусков журнала</a></li>
+            <li><a href="#" title="">Электронный журнал</a></li>
+            <li><a href="#" title="">Литература</a></li>
+            <li><a href="#" title="">Каталоги</a></li>
+            <li><a href="#" title="">Атребутика</a></li>
+            <li><a href="#" title="">Фотогалерея</a></li>
+            <li><a href="#" title="">Члены клуба</a></li>
+        </ul>
+    </div>
+    {% block content %}
+    {% endblock%}
+    <div id="footer">
+        <div class="footer_links">
+            <a href="#">На главную</a>
+            <a href="#">Контакты</a>
+        </div>
+
+        <div class="copyright">
+            <a href="http://csstemplatesmarket.com"><img src={% static "img/foot_logo.png" %} border="0" alt="" title=""
+                /></a>
+        </div>
+    </div>
+</div>
+</body>
+</html>

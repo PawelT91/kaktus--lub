@@ -73,13 +73,13 @@ text-align:center;
 #menu ul li a:hover{
 text-decoration:none;
 color: #fff;
-background:url(images/menu_bullet.gif) no-repeat left;
+background:url(images/icon.png) no-repeat left;
 padding:0px 10px 0 30px;
 }
 #menu ul li a.current{
 float:left;
 text-decoration:none;
-background:url(images/menu_bullet.gif) no-repeat left;
+background:url(images/icon.png) no-repeat left;
 padding:0px 10px 0 30px;
 color: #fff;
 margin:0px;
@@ -153,7 +153,7 @@ margin:0 0 10px 0;
 width:100px;
 height: auto;
 float:left;
-color:#5f6c7a;
+color:#FF0700;
 font-size:24px;
 }
 .show_text_content{
@@ -180,6 +180,9 @@ height:auto;
 float:left;
 padding:27px 10px 0 0;
 }
+
+
+
 .right_nav{
 width:17px;
 height:auto;
